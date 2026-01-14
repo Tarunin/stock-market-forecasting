@@ -21,7 +21,7 @@ The project demonstrates batch and streaming data ingestion, predictive modeling
 |:--|:--|:--|
 | **Ritika Kumar** | Data Pipeline Engineer | API integration, ETL pipeline development, data cleaning, and cloud storage integration (GCP BigQuery) |
 | **Raisa Vikas Furtado** | Database Architect | Database design and implementation, SQL schema creation, normalization, indexing, and ER diagram development |
-| **Tarun Sethi** | ML Engineer | Feature engineering, model training and evaluation (ARIMA, Prophet, XGBoost, LSTM), and visualization dashboard design (Plotly / Tableau) |
+| **Tarun Sethi** | ML Engineer | Feature engineering, model training and evaluation (ARIMA, XGBoost, LSTM), and visualization dashboard design (Plotly / Tableau) |
 
 ---
 
